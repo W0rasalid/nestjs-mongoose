@@ -11,6 +11,6 @@ export class AppService {
   }
 
   getHello3(): string {
-    return 'Hello JavaScript!';
+    return 'Hello JavaScript! 55555';
   }
 }
