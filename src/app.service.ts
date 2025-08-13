@@ -9,4 +9,8 @@ export class AppService {
   getHello2(): string {
     return 'Hello NodeJS!';
   }
+
+  getHello3(): string {
+    return 'Hello TypeScript!';
+  }
 }
