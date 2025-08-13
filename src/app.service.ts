@@ -11,10 +11,6 @@ export class AppService {
   }
 
   getHello3(): string {
-    return 'Hello JavaScript! 123456789';
-  }
-
-  getHello4(): string {
-    return 'Hello 4';
+    return 'Hello JavaScript! 55555';
   }
 }
